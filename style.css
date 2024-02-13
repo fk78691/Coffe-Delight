@@ -831,4 +831,12 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     height: 40px;
   }
 }
+
+
+@media(max-width:1024px){
+    #top{
+        position: relative;
+        right: -19%;
+    }
+}
 /* responsive Design-End */
